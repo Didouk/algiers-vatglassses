@@ -1,9 +1,8 @@
 {
   "airspace": [
     {
-      "id": "Algiers",
-      "comment": "DAAG_TWR",
-      "group": "TWR",
+      "id": "DAAG_TWR",
+      "group": "OTHER",
       "owner": [
         "AGT",
         "AGA",
@@ -17,7 +16,7 @@
           "max": 14,
           "points": [
             [
-              "0363540", 
+              "0363540",
               "0031301"
             ],
             [
@@ -185,11 +184,10 @@
       ]
     },
     {
-      "id": "Algiers",
-      "comment": "DAAG_APP",
-      "group": "APP",
+      "id": "DAAA?DAAG-CTA?000?145",
+      "group": "OTHER",
       "owner": [
-        "AGA","NC", "C", "AC"
+        "AGA"
       ],
       "sectors": [
         {
@@ -293,11 +291,10 @@
       ]
     },
     {
-      "id": "Annaba",
-      "comment": "DABB_APP",
-      "group": "APP",
+      "id": "DAAA?DABB-CTA?000?105",
+      "group": "OTHER",
       "owner": [
-        "BBA","NE", "E", "AC"
+        "BBA"
       ],
       "sectors": [
         {
@@ -489,11 +486,10 @@
       ]
     },
     {
-      "id": "Constantine",
-      "comment": "DABC_APP",
-      "group": "APP",
+      "id": "DAAA?DABC-CTA?000?105",
+      "group": "OTHER",
       "owner": [
-        "BCA", "NE", "E", "AC"
+        "BCA"
       ],
       "sectors": [
         {
@@ -685,11 +681,10 @@
       ]
     },
     {
-      "id": "Oran",
-      "comment": "DAOO_APP",
-      "group": "APP",
+      "id": "DAAA?DAOO-CTA?000?105",
+      "group": "OTHER",
       "owner": [
-        "OOA", "NW", "W", "AC"
+        "OOA"
       ],
       "sectors": [
         {
@@ -881,11 +876,10 @@
       ]
     },
     {
-      "id": "Hassi Mesaoud",
-      "comment": "DAUH_APP",
-      "group": "APP",
+      "id": "DAAA?DAUH-CTA?000?105",
+      "group": "OTHER",
       "owner": [
-        "UHA", "SE", "E", "AC"
+        "UHA"
       ],
       "sectors": [
         {
